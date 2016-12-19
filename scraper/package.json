@@ -1,0 +1,8 @@
+{
+  "name": "news-unitn-scraper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/zaninime/news-unitn",
+  "author": "Francesco Zanini <francesco@zanini.me>",
+  "license": "AGPL-3.0"
+}
